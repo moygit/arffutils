@@ -1,0 +1,13 @@
+@relation "test_main"
+
+@attribute test1 numeric
+@attribute test2 numeric
+@attribute test3 {A,B,C}
+@attribute test4 {true,false}
+
+@data
+1,9,A,true
+2,8,B,false
+3,7,C,true
+4,6,A,false
+5,5,B,true

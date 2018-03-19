@@ -1,0 +1,6 @@
+@relation foo_rem
+
+@attribute key numeric
+@attribute val {a,b,c,d}
+
+@data

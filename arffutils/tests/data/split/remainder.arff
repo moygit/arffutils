@@ -1,0 +1,6 @@
+@relation remainder
+
+@attribute key numeric
+@attribute val {a,b,c,d}
+
+@data

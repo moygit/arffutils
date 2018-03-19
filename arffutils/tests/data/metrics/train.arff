@@ -1,0 +1,12 @@
+@relation train
+
+@attribute numeric_col_1 numeric
+@attribute numeric_col_2 numeric
+@attribute TargetClass {false,true}
+
+@data
+1.0,1.0,false
+2.0,1.0,false
+3.0,1.0,false
+4.0,1.0,false
+5.0,1.0,true

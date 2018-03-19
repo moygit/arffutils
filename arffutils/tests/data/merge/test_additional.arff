@@ -1,0 +1,12 @@
+@relation "test_add"
+
+@attribute add1 {a,b,c,d,e}
+@attribute add2 numeric
+@attribute add3 {aa,bb,cc,dd,ee}
+
+@data
+a,5,aa
+b,4,bb
+c,3,cc
+d,2,dd
+e,1,ee

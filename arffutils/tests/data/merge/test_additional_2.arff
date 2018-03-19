@@ -1,0 +1,12 @@
+@relation "test_add_2"
+
+@attribute add_col_1 numeric
+@attribute add_col_2 {a,b,c,d,e}
+@attribute add_col_3 {aa,bb,cc,dd,ee}
+
+@data
+5,a,aa
+4,b,bb
+3,c,cc
+2,d,dd
+1,e,ee

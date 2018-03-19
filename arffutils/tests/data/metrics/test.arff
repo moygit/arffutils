@@ -1,0 +1,12 @@
+@relation test
+
+@attribute numeric_col_1 numeric
+@attribute numeric_col_2 numeric
+@attribute TargetClass {false,true}
+
+@data
+5.0,2.0,true
+4.0,2.0,false
+3.0,2.0,false
+2.0,2.0,false
+1.0,2.0,false

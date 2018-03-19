@@ -1,0 +1,10 @@
+@relation main
+
+@attribute key numeric
+@attribute val {a,b,c,d}
+
+@data
+1,a
+2,b
+3,c
+4,d
